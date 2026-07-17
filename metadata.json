@@ -1,0 +1,6 @@
+{
+  "name": "Fridge-to-Recipe Planner",
+  "description": "An interactive, gourmet chef notebook and recipe planner that transforms any list of ingredients into customizable step-by-step recipes, with scalable servings, ingredient swaps, and tuning loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
